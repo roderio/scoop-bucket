@@ -21,7 +21,9 @@
         ]
     ],
     "persist": "YouputDesk-data",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/roderio/youputdesk"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
