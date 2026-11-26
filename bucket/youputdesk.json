@@ -2,7 +2,7 @@
     "version": "0.2.1",
     "description": "Desktop app for YouTube Music with an equalizer, synced lyrics, themes, a tray mini player and global hotkeys",
     "homepage": "https://roderio.github.io/youputdesk/",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "notes": "YouputDesk's sign-in and settings are kept in $persist_dir and survive updates.",
     "architecture": {
         "64bit": {
