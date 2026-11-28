@@ -1,17 +1,17 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "Desktop app for YouTube Music with an equalizer, synced lyrics, themes, a tray mini player and global hotkeys",
     "homepage": "https://roderio.github.io/youputdesk/",
     "license": "Apache-2.0",
     "notes": "YouputDesk's sign-in and settings are kept in $persist_dir and survive updates.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/roderio/youputdesk/releases/download/v0.3.0/YouputDesk-0.3.0-portable-x64.exe#/YouputDesk.exe",
-            "hash": "81614879fe0d209003be7287a85fd58b0a0a35a8945ab78cf7ede00f3de73afe"
+            "url": "https://github.com/roderio/youputdesk/releases/download/v0.4.0/YouputDesk-0.4.0-portable-x64.exe#/YouputDesk.exe",
+            "hash": "51bf0c273f1b5a9404f2f5ab18f5c618a5e43d45d9862f9c92dbe892345a60d5"
         },
         "arm64": {
-            "url": "https://github.com/roderio/youputdesk/releases/download/v0.3.0/YouputDesk-0.3.0-portable-arm64.exe#/YouputDesk.exe",
-            "hash": "7e4cbcffe17974810ec61c5b6f9f4d671b9abd60efb1dc3cdf036eca2a7f011c"
+            "url": "https://github.com/roderio/youputdesk/releases/download/v0.4.0/YouputDesk-0.4.0-portable-arm64.exe#/YouputDesk.exe",
+            "hash": "5785f88490b64cd96d4a09f282397c8701a8208ba2b98f74e3a04e5b35e7663d"
         }
     },
     "shortcuts": [
